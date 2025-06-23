@@ -1,0 +1,4 @@
+{
+  "name": "PDF Quiz Generator",
+  "description": "Upload a PDF, select a difficulty, and generate a quiz using the Gemini API. The app extracts text from your PDF and crafts questions based on its content and your chosen difficulty level."
+}
